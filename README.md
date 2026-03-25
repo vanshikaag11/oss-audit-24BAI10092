@@ -44,7 +44,7 @@ Takes user input and generates a personalized open-source statement, saving it i
 
 ---
 
-## ▶ How to Run
+##  How to Run
 
 ### Step 1: Give execution permission
 
